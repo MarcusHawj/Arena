@@ -1,3 +1,0 @@
-C:\MSYS2\mingw64\bin\cmake.exe -E rm -f CMakeFiles\arena.dir/objects.a
-C:\MSYS2\mingw64\bin\ar.exe qc CMakeFiles\arena.dir/objects.a @CMakeFiles\arena.dir\objects1.rsp
-C:\MSYS2\mingw64\bin\c++.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\arena.dir/objects.a -Wl,--no-whole-archive -o arena.exe -Wl,--out-implib,libarena.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\arena.dir\linkLibs.rsp

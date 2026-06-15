@@ -1,3 +1,0 @@
-C:/Users/MK/Documents/Personal_Projects/fpsgame/build/CMakeFiles/arena.dir
-C:/Users/MK/Documents/Personal_Projects/fpsgame/build/CMakeFiles/edit_cache.dir
-C:/Users/MK/Documents/Personal_Projects/fpsgame/build/CMakeFiles/rebuild_cache.dir
